@@ -11,7 +11,7 @@ function loadTrimData() {
                     const trimDiv = document.createElement('div');
                     trimDiv.className = 'trim';
                     trimDiv.innerHTML = `
-                        <img src="/armor_trim/trim_item/${key}.png" alt="${key} Trim">
+                        <img src="../../assets/armor_trim/trim_item/${key}.png" alt="${key} Trim">
                         <h2>${key} Trim</h2>
                         <p>${item.Description}</p>
                         <p>Chance to find: <strong>${item.Chance}</strong></p>
