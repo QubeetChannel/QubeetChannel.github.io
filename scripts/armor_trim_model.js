@@ -15,6 +15,7 @@ const controls = new OrbitControls( camera, renderer.domElement );
 
 document.getElementById('containerModel').appendChild( renderer.domElement );
 
+
 const aLight = new THREE.AmbientLight(0xFFFFFF, 3);
 scene.add(aLight);
 
@@ -28,7 +29,7 @@ scene.add(helper);
 let loader = new GLTFLoader();
 let obj = null;
 
-loader.load('../../assets/steve/model.gltf', function(gltf) {
+loader.load('/images/steve/model.gltf', function(gltf) {
     obj = gltf;
     obj.scene.scale.set (1.3, 1.3, 1.3);
 

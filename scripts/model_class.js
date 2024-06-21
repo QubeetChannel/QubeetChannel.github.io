@@ -1,9 +1,9 @@
 class Model {
     skin = "";
-    helmetVisibility
-    chestplateVisibility
-    leggingsVisibility
-    bootsVisibility
+    helmet = new Helmet("type", "color", "visibility")
+    chestplate = new Chestplate(type, color, visibility)
+    leggings = new Leggings(type, color, visibility)
+    boots = new Boots(type, color, visibility)
 
     setSkin(skin_path) {
         this.skin = skin_path;
@@ -11,15 +11,29 @@ class Model {
 }
 
 class Armor {
-    helmet;
-    chestplate;
-    leggings = new Leggings();
-    boots;
+    type = "";
+    color = "";
+    visibility = false;
+
+    constructor(type, color, visibility) {
+        this.type = type;
+        this.color = color;
+        this.visibility = visibility;
+    }
     
+    setType(type) {
+        this.type = type;
+    }
+    setColor(color) {
+        this.color = color;
+    }
+    setVisibility(visibility) {
+        this.visibility = visibility;
+    }
 }
 
 class Helmet extends Armor {
-
+    
 }
 
 class Chestplate extends Armor {
