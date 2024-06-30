@@ -1,0 +1,92 @@
+[
+    {   
+        "Name": "Bolt",
+        "Description": "Bolt armor trims are found in standard <a href='https://minecraft.wiki/w/Vault' target='_blank'>vaults</a> in <a href='https://minecraft.wiki/w/Trial_Chambers' target='_blank'>trial chambers</a>",
+        "Chance": "6.2%"
+    },
+    {
+        "Name": "Coast",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Shipwreck' target='_blank'>shipwrecks</a>",
+        "Chance": "16.7%"
+    },
+    {
+        "Name": "Dune",
+        "Description": "Dune armor trims are found in <a href='https://minecraft.wiki/w/Desert_Pyramid' target='_blank'>desert temples</a>",
+        "Chance": "14.3%"
+    },
+    {
+        "Name": "Eye",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Stronghold' target='_blank'>strongholds</a>",
+        "Chance": "100%"
+    },
+    {
+        "Name": "Flow",
+        "Description": "Flow armor trims are found in <a href='https://minecraft.wiki/w/Ominous_Vault' target='_blank'>ominous vaults</a> in <a href='https://minecraft.wiki/w/Trial_Chambers' target='_blank'>trial chambers</a>",
+        "Chance": "22.5%"
+    },
+    {
+        "Name": "Host",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Trail_Ruins' target='_blank'>trail ruins</a>",
+        "Chance": "8.3%"
+    },
+    {
+        "Name": "Raiser",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Trail_Ruins' target='_blank'>trail ruins</a>",
+        "Chance": "8.3%"
+    },
+    {
+        "Name": "Rib",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Nether_Fortress' target='_blank'>nether fortresses</a>",
+        "Chance": "6.7%"
+    },
+    {
+        "Name": "Sentry",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Pillager_Outpost' target='_blank'>pillager outposts</a>",
+        "Chance": "25%"
+    },
+    {
+        "Name": "Shaper",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Trail_Ruins' target='_blank'>trail ruins</a>",
+        "Chance": "8.3%"
+    },
+    {
+        "Name": "Silence",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Ancient_City' target='_blank'>ancient cities</a>",
+        "Chance": "1.2%"
+    },
+    {
+        "Name": "Snout",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Bastion_Remnant' target='_blank'>bastion remnants</a>",
+        "Chance": "8.3%"
+    },
+    {
+        "Name": "Spire",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/End_City' target='_blank'>end cities</a>",
+        "Chance": "6.7%"
+    },
+    {
+        "Name": "Tide",
+        "Description": "This item is dropped by <a href='https://minecraft.wiki/w/Elder_Guardian' target='_blank'>elder guardians</a>",
+        "Chance": "20%"
+    },
+    {
+        "Name": "Vex",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Woodland_Mansion' target='_blank'>woodland mansions</a>",
+        "Chance": "50%"
+    },
+    {
+        "Name": "Ward",
+        "Description": "This item has a chance to be found in most chests inside of <a href='https://minecraft.wiki/w/Ancient_City' target='_blank'>ancient cities</a>, with the exception of the Ice Box chests",
+        "Chance": "5%"
+    },
+    {
+        "Name": "Wayfinder",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Trail_Ruins' target='_blank'>trail ruins</a>",
+        "Chance": "8.3%"
+    },
+    {
+        "Name": "Wild",
+        "Description": "This item is found in <a href='https://minecraft.wiki/w/Jungle_Pyramid' target='_blank'>jungle pyramids</a>",
+        "Chance": "33.3%"
+    }
+]
